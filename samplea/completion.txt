@@ -1,0 +1,82 @@
+Number of tables: 1
+
+List of table names:
+Summary of Benefits for the Certified Plan
+
+1st table summary (Summary of Benefits for the Certified Plan):
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 病房及膳食 Room and board: 每日 $3,850 per day (每保單年度最多270日 Maximum 270 days per Policy Year) \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 病房及膳食 Room and board: 每日 $1,780 per day (每保單年度最多270日 Maximum 270 days per Policy Year) \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 病房及膳食 Room and board: 每日 $930 per day (每保單年度最多270日 Maximum 270 days per Policy Year) \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 雜項開支 Miscellaneous charges: 每保單年度$45,600 per Policy Year \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 雜項開支 Miscellaneous charges: 每保單年度$25,600 per Policy Year \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 雜項開支 Miscellaneous charges: 每保單年度$16,400 per Policy Year \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 主診醫生巡房費 Attending doctor's visit fee: 每日 $3,100 per day (每保單年度最多270日 Maximum 270 days per Policy Year) \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 主診醫生巡房費 Attending doctor's visit fee: 每日 $1,440 per day (每保單年度最多270日 Maximum 270 days per Policy Year) \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 主診醫生巡房費 Attending doctor's visit fee: 每日 $850 per day (每保單年度最多270日 Maximum 270 days per Policy Year) \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 專科醫生費 Specialist's fee: 每保單年度$13,400 per Policy Year \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 專科醫生費 Specialist's fee: 每保單年度 $5,050 per Policy Year \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 專科醫生費 Specialist's fee: 每保單年度$4,600 per Policy Year \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 深切治療 Intensive care: 每日 $4,700 per day (每保單年度最多25日 Maximum 25 days per Policy Year) \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 深切治療 Intensive care: 每日 $3,900 per day (每保單年度最多25日 Maximum 25 days per Policy Year) \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 深切治療 Intensive care: 每日 $3,650 per day (每保單年度最多25日 Maximum 25 days per Policy Year) \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 外科醫生費 Surgeon's fee: 複雜 Complex: $126,000 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 外科醫生費 Surgeon's fee: 複雜 Complex: $81,000 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 外科醫生費 Surgeon's fee: 複雜 Complex: $58,600 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 外科醫生費 Surgeon's fee: 大型 Major: $63,200 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 外科醫生費 Surgeon's fee: 大型 Major: $44,400 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 外科醫生費 Surgeon's fee: 大型 Major: $31,600 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 外科醫生費 Surgeon's fee: 中型 Intermediate: $26,800 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 外科醫生費 Surgeon's fee: 中型 Intermediate: $18,700 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 外科醫生費 Surgeon's fee: 中型 Intermediate: $13,550 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 外科醫生費 Surgeon's fee: 小型 Minor: $9,650 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 外科醫生費 Surgeon's fee: 小型 Minor: $8,100 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 外科醫生費 Surgeon's fee: 小型 Minor: $6,180 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 麻醉科醫生費 Anaesthetist's fee: 複雜 Complex: $43,200 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 麻醉科醫生費 Anaesthetist's fee: 複雜 Complex: $28,300 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 麻醉科醫生費 Anaesthetist's fee: 複雜 Complex: $20,500 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 麻醉科醫生費 Anaesthetist's fee: 大型 Major: $22,000 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 麻醉科醫生費 Anaesthetist's fee: 大型 Major: $15,550 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 麻醉科醫生費 Anaesthetist's fee: 大型 Major: $11,200 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 麻醉科醫生費 Anaesthetist's fee: 中型 Intermediate: $9,350 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 麻醉科醫生費 Anaesthetist's fee: 中型 Intermediate: $6,560 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 麻醉科醫生費 Anaesthetist's fee: 中型 Intermediate: $4,750 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 麻醉科醫生費 Anaesthetist's fee: 小型 Minor: $4,720 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 麻醉科醫生費 Anaesthetist's fee: 小型 Minor: $2,930 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 麻醉科醫生費 Anaesthetist's fee: 小型 Minor: $2,600 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 手術室費 Operating theatre charges: 複雜 Complex: $43,200 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 手術室費 Operating theatre charges: 複雜 Complex: $28,300 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 手術室費 Operating theatre charges: 複雜 Complex: $20,500 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 手術室費 Operating theatre charges: 大型 Major: $22,000 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 手術室費 Operating theatre charges: 大型 Major: $15,550 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 手術室費 Operating theatre charges: 大型 Major: $11,200 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 手術室費 Operating theatre charges: 中型 Intermediate: $9,350 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 手術室費 Operating theatre charges: 中型 Intermediate: $6,560 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 手術室費 Operating theatre charges: 中型 Intermediate: $4,750 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 手術室費 Operating theatre charges: 小型 Minor: $4,720 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 手術室費 Operating theatre charges: 小型 Minor: $2,930 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 手術室費 Operating theatre charges: 小型 Minor: $2,600 \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 訂明診斷成像檢測 Prescribed Diagnostic Imaging Tests: 每保單年度$40,000 per Policy Year (設30%共同保險 Subject to 30% coinsurance) \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 訂明診斷成像檢測 Prescribed Diagnostic Imaging Tests: 每保單年度$30,000 per Policy Year (設30%共同保險 Subject to 30% coinsurance) \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 訂明診斷成像檢測 Prescribed Diagnostic Imaging Tests: 每保單年度$20,000 per Policy Year (設30%共同保險 Subject to 30% coinsurance) \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 訂明非手術癌症治療 Prescribed Non-surgical Cancer Treatments: 每保單年度$158,000 per Policy Year \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 訂明非手術癌症治療 Prescribed Non-surgical Cancer Treatments: 每保單年度 $123,000 per Policy Year \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 訂明非手術癌症治療 Prescribed Non-surgical Cancer Treatments: 每保單年度$83,000 per Policy Year \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 入院前或出院後/日間手術前後的門診護理 Pre- and post-Confinement / Day Case Procedure outpatient care: 每保單年度$6,000 per Policy Year \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 入院前或出院後/日間手術前後的門診護理 Pre- and post-Confinement / Day Case Procedure outpatient care: 每保單年度$3,600 per Policy Year \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 入院前或出院後/日間手術前後的門診護理 Pre- and post-Confinement / Day Case Procedure outpatient care: 每保單年度$3,200 per Policy Year \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 精神科治療 Psychiatric treatments: 每保單年度 $30,000 per Policy Year \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 智選/升級智選 Advance / Advance Plus: 精神科治療 Psychiatric treatments: 每保單年度 $30,000 per Policy Year \n
+Summary of Benefits for the Certified Plan: 1) Basic Benefits: 基本/升級基本 Standard / Standard Plus: 精神科治療 Psychiatric treatments: 每保單年度 $30,000 per Policy Year \n
+Summary of Benefits for the Certified Plan: 2) Enhanced Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 私家看護費 Private nursing: 每日 $970 per day (每保單年度最多120日 Maximum 120 days per Policy Year) \n
+Summary of Benefits for the Certified Plan: 2) Enhanced Benefits: 智選/升級智選 Advance / Advance Plus: 私家看護費 Private nursing: 每日 $640 per day (每保單年度最多120日 Maximum 120 days per Policy Year) \n
+Summary of Benefits for the Certified Plan: 2) Enhanced Benefits: 基本/升級基本 Standard / Standard Plus: 私家看護費 Private nursing: 每日 $390 per day (每保單年度最多120日 Maximum 120 days per Policy Year) \n
+Summary of Benefits for the Certified Plan: 2) Enhanced Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 陪床費 Companion bed: 每日 $1,880 per day (每保單年度最多270日 Maximum 270 days per Policy Year) \n
+Summary of Benefits for the Certified Plan: 2) Enhanced Benefits: 智選/升級智選 Advance / Advance Plus: 陪床費 Companion bed: 每日 $850 per day (每保單年度最多270日 Maximum 270 days per Policy Year) \n
+Summary of Benefits for the Certified Plan: 2) Enhanced Benefits: 基本/升級基本 Standard / Standard Plus: 陪床費 Companion bed: 每日 $450 per day (每保單年度最多270日 Maximum 270 days per Policy Year) \n
+Summary of Benefits for the Certified Plan: 2) Enhanced Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 急症意外門診保障 Emergency outpatient treatment for Accidents: 每保單年度 $11,900 per Policy Year \n
+Summary of Benefits for the Certified Plan: 2) Enhanced Benefits: 智選/升級智選 Advance / Advance Plus: 急症意外門診保障 Emergency outpatient treatment for Accidents: 每保單年度$8,700 per Policy Year \n
+Summary of Benefits for the Certified Plan: 2) Enhanced Benefits: 基本/升級基本 Standard / Standard Plus: 急症意外門診保障 Emergency outpatient treatment for Accidents: 每保單年度$6,600 per Policy Year \n
+Summary of Benefits for the Certified Plan: 2) Enhanced Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 日症病人洗腎 Day Patient kidney dialysis: 每保單年度 $158,000 per Policy Year \n
+Summary of Benefits for the Certified Plan: 2) Enhanced Benefits: 智選/升級智選 Advance / Advance Plus: 日症病人洗腎 Day Patient kidney dialysis: 每保單年度$123,000 per Policy Year \n
+Summary of Benefits for the Certified Plan: 2) Enhanced Benefits: 基本/升級基本 Standard / Standard Plus: 日症病人洗腎 Day Patient kidney dialysis: 每保單年度 $83,000 per Policy Year \n
+Summary of Benefits for the Certified Plan: 2) Enhanced Benefits: 尊尚/升級尊尚 Deluxe / Deluxe Plus: 住院或指定治療後由註冊中醫師提供之診症或針

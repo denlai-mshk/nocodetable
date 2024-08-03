@@ -1,0 +1,963 @@
+{
+  "status": "succeeded",
+  "createdDateTime": "2024-08-02T03:12:55Z",
+  "lastUpdatedDateTime": "2024-08-02T03:13:07Z",
+  "analyzeResult": {
+    "apiVersion": "2024-02-29-preview",
+    "modelId": "prebuilt-layout",
+    "stringIndexType": "utf16CodeUnit",
+    "content": "<figure>\n\n![](figures/0)\n\n<!-- FigureContent=\"Contoso 康托索\" -->\n\n</figure>\n\n\n康托索靈活配自願醫保計劃 Contoso MyFlexi VHIS Plan\n===\n\n\n## 保障摘要 Summary of Benefits 2023年2月1日版本 1 February 2023 Edition\n\n康托索靈活配自願醫保計劃提供以下選擇(括號內數字為自願醫保認可產品編號):\n\nContoso MyFlexi VHIS Plan offers the options below (VHIS certification numbers in brackets):\n\n○ 尊尚/升級尊尚 Deluxe/Deluxe Plus (FO0029-03-000-04/ F00029-03-001-04)\n\n○ 智選/升級智選 Advance/Advance Plus (F00029-02-000-04/F00029-02-001-04)\n\n○ 基本/升級基本 Standard/Standard Plus (F00029-01-000-04/F00029-01-001-04)\n\n\n## A 認可產品之保障摘要 Summary of Benefits for the Certified Plan\n\n| 1) 基本保障 Basic Benefits || 尊尚/升級尊尚 Deluxe / Deluxe Plus || 智選/升級智選 Advance / Advance Plus || 基本/升級基本 Standard / Standard Plus |\n| - | - | - | - | - | - | - |\n| | 保障項目Benefit items | 賠償限額(港元) Benefit limit (in HKD) |||||\n| a | 病房及膳食 | 每日 $3,850 per day || 每日 $1,780 per day || 每日 $930 per day |\n|| Room and board | (每保單年度最多270日 Maximum 270 days per Policy Year) |||||\n| b | 雜項開支 Miscellaneous charges | 每保單年度$45,600 per Policy Year || 每保單年度$25,600 per Policy Year || 每保單年度$16,400 per Policy Year |\n| c | 主診醫生巡房費 | 每日 $3,100 per day 每日 $1,440 per day 每日 $850 per day (每保單年度最多270日 Maximum 270 days per Policy Year) |||||\n|| Attending doctor's visit fee ||||||\n| d | 專科醫生費2 Specialist's fee® | 每保單年度$13,400 per Policy Year || 每保單年度 $5,050 per Policy Year || 每保單年度$4,600 per Policy Year |\n| e | 深切治療 | 每日 $4,700 per day 每日 $3,900 per day 每日 $3,650 per day (每保單年度最多25日 Maximum 25 days per Policy Year) |||||\n| | Intensive care ||||||\n| f | 外科醫生費 Surgeon's fee || 每項手術,按手術表劃分的手術分類 -| Per surgery, subject to surgical category for the surgery/procedure in the Schedule of Surgical Procedures - | | |\n||| ○ 複雜 Complex | $126,000 | 複雜 Complex • | $81,000 | 複雜 Complex $58,600 • |\n||| 。 大型 Major $63,200 || 大型 Major • | $44,400 | 大型 Major $31,600 • |\n||| 。 中型 Intermediate $26,800 || 中型 Intermediate • | $18,700 | 中型 Intermediate $13,550 • ||\n| | ○ 小型 Minor :unselected: $9,650 || ○ 小型 Minor $8,100 || 小型 Minor $6,180 • |\n| g 麻醉科醫生費 Anaesthetist's fee || 每項手術,按手術表劃分的手術分類 - |||||\n||| Per surgery, subject to surgical category for the surgery/procedure in the Schedule of Surgical Procedures - |||||\n||| ○ 複雜 Complex | $43,200 | 複雜 Complex • | $28,300 | 複雜 Complex $20,500 • |\n||| 。 大型Major $22,000 || 大型 Major • | $15,550 | 大型Major $11,200 • |\n||| ○ 中型 Intermediate $9,350 || :unselected: ,中型 Intermediate • | $6,560 | 中型 Intermediate $4,750 • |\n||| 。 小型 Minor :unselected: $4,720 || ○ 小型 Minor $2,930 || ○ 小型 Minor $2,600 |\n| h | 手術室費 | 每項手術,按手術表劃分的手術分類- |||| |\n| Operating theatre charges || Per surgery, subject to surgical category for the surgery/procedure in the Schedule of Surgical Procedures - |||||\n||| ○ 複雜 Complex | $43,200 | 複雜 Complex • | $28,300 | 複雜 Complex $20,500 • |\n||| 。 大型 Major $22,000 || 大型 Major • | $15,550 | 。 大型 Major $11,200 |\n||| ○ 中型 Intermediate $9,350 。 小型 Minor $4,720 || 中型 Intermediate • | $6,560 $2,930 | ○ 中型 Intermediate $4,750 |\n||||| ,小型 Minor • || 。 小型 Minor $2,600 |\n| i | 訂明診斷成像檢測13 Prescribed Diagnostic Imaging Tests23 | 每保單年度$40,000 per Policy Year || 每保單年度$30,000 per Policy Year || 每保單年度$20,000 per Policy Year |\n|| | (設30%共同保險 Subject to 30% coinsurance) |||||\n| j | 訂明非手術癌症治療4 Prescribed Non-surgical Cancer Treatments® | 每保單年度$158,000 per Policy Year || 每保單年度 $123,000 per Policy Year || 每保單年度$83,000 per Policy Year |\n| k | 入院前或出院後/日間手術前後的門診護理2 Pre- and post-Confinement / Day Case Procedure | 每保單年度$6,000 per Policy Year || 每保單年度$3,600 per Policy Year || 每保單年度$3,200 per Policy Year |\n| | outpatient care® | ○ 2次住院/日間手術前的門診/急症診症 2 prior outpatient visits or Emergency consultations per Confinement/Day Case Procedure 。 所有出院/日間手術後90日內之跟進門診 All related follow-up outpatient visits per Confinement/Day Case Procedure (within 90 days after discharge from Hospital or completion of Day Case Procedure) |||||||||||\n| |\n| l 精神科治療 Psychiatric treatments || 每保單年度 $30,000 per Policy Year |||||\n|| 2) 額外保障 Enhanced Benefits  | 尊尚/升級尊尚 Deluxe / Deluxe Plus || 智選/升級智選 Advance / Advance Plus || 基本/升級基本 Standard / Standard Plus |\n| | 保障項目Benefit items | 賠償限額(港元) Benefit limit (in HKD) |||||\n| a | 私家看護費2 | 每日 $970 per day 每日 $640 per day 每日 $390 per day (每保單年度最多120日 Maximum 120 days per Policy Year) |||||\n|| Private nursing@ ||||||\n| b | 陪床費 | 每日 $1,880 per day 每日 $850 per day 每日 $450 per day (每保單年度最多270日 Maximum 270 days per Policy Year) |||||\n|| Companion bed ||||||\n| c | 急症意外門診保障 Emergency outpatient treatment for Accidents | 每保單年度 $11,900 per Policy Year || 每保單年度$8,700 per Policy Year || 每保單年度$6,600 per Policy Year |\n| d | 日症病人洗腎2 Day Patient kidney dialysis2 | 每保單年度 $158,000 per Policy Year || 每保單年度$123,000 per Policy Year || 每保單年度 $83,000 per Policy Year |\n| e | 住院或指定治療後由註冊中醫師提供之診症或針灸 Consultation or acupuncture by a Registered | 每次$360 per visit || 每次 $270 per visit || 每次$225 per visit |\n| | Chinese Medicine Practitioner after Confinement or specific treatments | (每保單年度最多20次 Maximum 20 visits per Policy Year) |||||\n| | 其他限額 Other limits | || || |\n| | 1)基本保障及2)額外保障下所有保障項目的 每年保障限額 Annual Benefit Limit for all benefit items under 1) Basic Benefits and 2) Enhanced Benefits | || 無Nil |\n||||| || || |\n| | 1) 基本保障及2)額外保障下所有保障項目的 終身保障限額 Lifetime Benefit Limit for all benefit items under 1) Basic Benefits and 2) Enhanced Benefits | || 無Nil || || || |\n||||\n\n<!-- PageFooter=\"MP273/6/1222\" -->\n\n<!-- PageNumber=\"1\" -->\n",    
+    "tables": [
+      {
+        "rowCount": 49,
+        "columnCount": 7,
+        "cells": [
+          {
+            "kind": "columnHeader",
+            "rowIndex": 0,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "1) 基本保障 Basic Benefits"
+          },
+          {
+            "kind": "columnHeader",
+            "rowIndex": 0,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "尊尚/升級尊尚 Deluxe / Deluxe Plus"
+          },
+          {
+            "kind": "columnHeader",
+            "rowIndex": 0,
+            "columnIndex": 4,
+            "columnSpan": 2,
+            "content": "智選/升級智選 Advance / Advance Plus"
+          },
+          {
+            "kind": "columnHeader",
+            "rowIndex": 0,
+            "columnIndex": 6,
+            "content": "基本/升級基本 Standard / Standard Plus"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 0,
+            "content": ""
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 1,
+            "content": "保障項目Benefit items"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 2,
+            "columnSpan": 5,
+            "content": "賠償限額(港元) Benefit limit (in HKD)"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 0,
+            "rowSpan": 2,
+            "content": "a"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 1,
+            "content": "病房及膳食"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "每日 $3,850 per day"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 4,
+            "columnSpan": 2,
+            "content": "每日 $1,780 per day"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 6,
+            "content": "每日 $930 per day"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 1,
+            "content": "Room and board"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 2,
+            "columnSpan": 5,
+            "content": "(每保單年度最多270日 Maximum 270 days per Policy Year)"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 0,
+            "content": "b"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 1,
+            "content": "雜項開支 Miscellaneous charges"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "每保單年度$45,600 per Policy Year"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 4,
+            "columnSpan": 2,
+            "content": "每保單年度$25,600 per Policy Year"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 6,
+            "content": "每保單年度$16,400 per Policy Year"
+          },
+          {
+            "rowIndex": 5,
+            "columnIndex": 0,
+            "rowSpan": 2,
+            "content": "c"
+          },
+          {
+            "rowIndex": 5,
+            "columnIndex": 1,
+            "content": "主診醫生巡房費"
+          },
+          {
+            "rowIndex": 5,
+            "columnIndex": 2,
+            "rowSpan": 2,
+            "columnSpan": 5,
+            "content": "每日 $3,100 per day 每日 $1,440 per day 每日 $850 per day (每保單年度最多270日 Maximum 270 days per Policy Year)"
+          },
+          {
+            "rowIndex": 6,
+            "columnIndex": 1,
+            "content": "Attending doctor's visit fee"
+          },
+          {
+            "rowIndex": 7,
+            "columnIndex": 0,
+            "content": "d"
+          },
+          {
+            "rowIndex": 7,
+            "columnIndex": 1,
+            "content": "專科醫生費2 Specialist's fee®"
+          },
+          {
+            "rowIndex": 7,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "每保單年度$13,400 per Policy Year"
+          },
+          {
+            "rowIndex": 7,
+            "columnIndex": 4,
+            "columnSpan": 2,
+            "content": "每保單年度 $5,050 per Policy Year"
+          },
+          {
+            "rowIndex": 7,
+            "columnIndex": 6,
+            "content": "每保單年度$4,600 per Policy Year"
+          },
+          {
+            "rowIndex": 8,
+            "columnIndex": 0,
+            "content": "e"
+          },
+          {
+            "rowIndex": 8,
+            "columnIndex": 1,
+            "content": "深切治療"
+          },
+          {
+            "rowIndex": 8,
+            "columnIndex": 2,
+            "rowSpan": 2,
+            "columnSpan": 5,
+            "content": "每日 $4,700 per day 每日 $3,900 per day 每日 $3,650 per day (每保單年度最多25日 Maximum 25 days per Policy Year)"
+          },
+          {
+            "rowIndex": 9,
+            "columnIndex": 0,
+            "content": ""
+          },
+          {
+            "rowIndex": 9,
+            "columnIndex": 1,
+            "content": "Intensive care"
+          },
+          {
+            "rowIndex": 10,
+            "columnIndex": 0,
+            "rowSpan": 4,
+            "content": "f"
+          },
+          {
+            "rowIndex": 10,
+            "columnIndex": 1,
+            "rowSpan": 5,
+            "content": "外科醫生費 Surgeon's fee"
+          },
+          {
+            "rowIndex": 10,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "每項手術,按手術表劃分的手術分類\nPer surgery, subject to surgical"
+          },
+          {
+            "rowIndex": 10,
+            "columnIndex": 4,
+            "columnSpan": 2,
+            "content": "-\ncategory for the surgery/procedure in the"
+          },
+          {
+            "rowIndex": 10,
+            "columnIndex": 6,
+            "content": "Schedule of Surgical Procedures -"
+          },
+          {
+            "rowIndex": 11,
+            "columnIndex": 2,
+            "content": "○ 複雜 Complex"
+          },
+          {
+            "rowIndex": 11,
+            "columnIndex": 3,
+            "content": "$126,000"
+          },
+          {
+            "rowIndex": 11,
+            "columnIndex": 4,
+            "content": "複雜 Complex •"
+          },
+          {
+            "rowIndex": 11,
+            "columnIndex": 5,
+            "content": "$81,000"
+          },
+          {
+            "rowIndex": 11,
+            "columnIndex": 6,
+            "content": "複雜 Complex $58,600 •"
+          },
+          {
+            "rowIndex": 12,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "。 大型 Major $63,200"
+          },
+          {
+            "rowIndex": 12,
+            "columnIndex": 4,
+            "content": "大型 Major •"
+          },
+          {
+            "rowIndex": 12,
+            "columnIndex": 5,
+            "content": "$44,400"
+          },
+          {
+            "rowIndex": 12,
+            "columnIndex": 6,
+            "content": "大型 Major $31,600 •"
+          },
+          {
+            "rowIndex": 13,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "。 中型 Intermediate $26,800"
+          },
+          {
+            "rowIndex": 13,
+            "columnIndex": 4,
+            "content": "中型 Intermediate •"
+          },
+          {
+            "rowIndex": 13,
+            "columnIndex": 5,
+            "content": "$18,700"
+          },
+          {
+            "rowIndex": 13,
+            "columnIndex": 6,
+            "content": "中型 Intermediate $13,550 •"
+          },
+          {
+            "rowIndex": 14,
+            "columnIndex": 0,
+            "content": ""
+          },
+          {
+            "rowIndex": 14,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "○ 小型 Minor :unselected: $9,650"
+          },
+          {
+            "rowIndex": 14,
+            "columnIndex": 4,
+            "columnSpan": 2,
+            "content": "○ 小型 Minor $8,100"
+          },
+          {
+            "rowIndex": 14,
+            "columnIndex": 6,
+            "content": "小型 Minor $6,180 •"
+          },
+          {
+            "rowIndex": 15,
+            "columnIndex": 0,
+            "rowSpan": 6,
+            "columnSpan": 2,
+            "content": "g 麻醉科醫生費 Anaesthetist's fee"
+          },
+          {
+            "rowIndex": 15,
+            "columnIndex": 2,
+            "columnSpan": 5,
+            "content": "每項手術,按手術表劃分的手術分類 -"
+          },
+          {
+            "rowIndex": 16,
+            "columnIndex": 2,
+            "columnSpan": 5,
+            "content": "Per surgery, subject to surgical category for the surgery/procedure in the Schedule of Surgical Procedures -"
+          },
+          {
+            "rowIndex": 17,
+            "columnIndex": 2,
+            "content": "○ 複雜 Complex"
+          },
+          {
+            "rowIndex": 17,
+            "columnIndex": 3,
+            "content": "$43,200"
+          },
+          {
+            "rowIndex": 17,
+            "columnIndex": 4,
+            "content": "複雜 Complex •"
+          },
+          {
+            "rowIndex": 17,
+            "columnIndex": 5,
+            "content": "$28,300"
+          },
+          {
+            "rowIndex": 17,
+            "columnIndex": 6,
+            "content": "複雜 Complex $20,500 •"
+          },
+          {
+            "rowIndex": 18,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "。 大型Major $22,000"
+          },
+          {
+            "rowIndex": 18,
+            "columnIndex": 4,
+            "content": "大型 Major •"
+          },
+          {
+            "rowIndex": 18,
+            "columnIndex": 5,
+            "content": "$15,550"
+          },
+          {
+            "rowIndex": 18,
+            "columnIndex": 6,
+            "content": "大型Major $11,200 •"
+          },
+          {
+            "rowIndex": 19,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "○ 中型 Intermediate $9,350"
+          },
+          {
+            "rowIndex": 19,
+            "columnIndex": 4,
+            "content": ":unselected: ,中型 Intermediate •"
+          },
+          {
+            "rowIndex": 19,
+            "columnIndex": 5,
+            "content": "$6,560"
+          },
+          {
+            "rowIndex": 19,
+            "columnIndex": 6,
+            "content": "中型 Intermediate $4,750 •"
+          },
+          {
+            "rowIndex": 20,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "。 小型 Minor :unselected: $4,720"
+          },
+          {
+            "rowIndex": 20,
+            "columnIndex": 4,
+            "columnSpan": 2,
+            "content": "○ 小型 Minor $2,930"
+          },
+          {
+            "rowIndex": 20,
+            "columnIndex": 6,
+            "content": "○ 小型 Minor $2,600"
+          },
+          {
+            "rowIndex": 21,
+            "columnIndex": 0,
+            "content": "h"
+          },
+          {
+            "rowIndex": 21,
+            "columnIndex": 1,
+            "content": "手術室費"
+          },
+          {
+            "rowIndex": 21,
+            "columnIndex": 2,
+            "columnSpan": 4,
+            "content": "每項手術,按手術表劃分的手術分類-"
+          },
+          {
+            "rowIndex": 21,
+            "columnIndex": 6,
+            "content": ""
+          },
+          {
+            "rowIndex": 22,
+            "columnIndex": 0,
+            "rowSpan": 5,
+            "columnSpan": 2,
+            "content": "Operating theatre charges"
+          },
+          {
+            "rowIndex": 22,
+            "columnIndex": 2,
+            "columnSpan": 5,
+            "content": "Per surgery, subject to surgical category for the surgery/procedure in the Schedule of Surgical Procedures -"
+          },
+          {
+            "rowIndex": 23,
+            "columnIndex": 2,
+            "content": "○ 複雜 Complex"
+          },
+          {
+            "rowIndex": 23,
+            "columnIndex": 3,
+            "content": "$43,200"
+          },
+          {
+            "rowIndex": 23,
+            "columnIndex": 4,
+            "content": "複雜 Complex •"
+          },
+          {
+            "rowIndex": 23,
+            "columnIndex": 5,
+            "content": "$28,300"
+          },
+          {
+            "rowIndex": 23,
+            "columnIndex": 6,
+            "content": "複雜 Complex $20,500 •"
+          },
+          {
+            "rowIndex": 24,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "。 大型 Major $22,000"
+          },
+          {
+            "rowIndex": 24,
+            "columnIndex": 4,
+            "content": "大型 Major •"
+          },
+          {
+            "rowIndex": 24,
+            "columnIndex": 5,
+            "content": "$15,550"
+          },
+          {
+            "rowIndex": 24,
+            "columnIndex": 6,
+            "content": "。 大型 Major $11,200"
+          },
+          {
+            "rowIndex": 25,
+            "columnIndex": 2,
+            "rowSpan": 2,
+            "columnSpan": 2,
+            "content": "○ 中型 Intermediate $9,350 。 小型 Minor $4,720"
+          },
+          {
+            "rowIndex": 25,
+            "columnIndex": 4,
+            "content": "中型 Intermediate •"
+          },
+          {
+            "rowIndex": 25,
+            "columnIndex": 5,
+            "rowSpan": 2,
+            "content": "$6,560 $2,930"
+          },
+          {
+            "rowIndex": 25,
+            "columnIndex": 6,
+            "content": "○ 中型 Intermediate $4,750"
+          },
+          {
+            "rowIndex": 26,
+            "columnIndex": 4,
+            "content": ",小型 Minor •"
+          },
+          {
+            "rowIndex": 26,
+            "columnIndex": 6,
+            "content": "。 小型 Minor $2,600"
+          },
+          {
+            "rowIndex": 27,
+            "columnIndex": 0,
+            "rowSpan": 2,
+            "content": "i"
+          },
+          {
+            "rowIndex": 27,
+            "columnIndex": 1,
+            "content": "訂明診斷成像檢測13 Prescribed Diagnostic Imaging Tests23"
+          },
+          {
+            "rowIndex": 27,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "每保單年度$40,000 per Policy Year"
+          },
+          {
+            "rowIndex": 27,
+            "columnIndex": 4,
+            "columnSpan": 2,
+            "content": "每保單年度$30,000 per Policy Year"
+          },
+          {
+            "rowIndex": 27,
+            "columnIndex": 6,
+            "content": "每保單年度$20,000 per Policy Year"
+          },
+          {
+            "rowIndex": 28,
+            "columnIndex": 1,
+            "content": ""
+          },
+          {
+            "rowIndex": 28,
+            "columnIndex": 2,
+            "columnSpan": 5,
+            "content": "(設30%共同保險 Subject to 30% coinsurance)"
+          },
+          {
+            "rowIndex": 29,
+            "columnIndex": 0,
+            "content": "j"
+          },
+          {
+            "rowIndex": 29,
+            "columnIndex": 1,
+            "content": "訂明非手術癌症治療4 Prescribed Non-surgical Cancer Treatments®"
+          },
+          {
+            "rowIndex": 29,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "每保單年度$158,000 per Policy Year"
+          },
+          {
+            "rowIndex": 29,
+            "columnIndex": 4,
+            "columnSpan": 2,
+            "content": "每保單年度 $123,000 per Policy Year"
+          },
+          {
+            "rowIndex": 29,
+            "columnIndex": 6,
+            "content": "每保單年度$83,000 per Policy Year"
+          },
+          {
+            "rowIndex": 30,
+            "columnIndex": 0,
+            "content": "k"
+          },
+          {
+            "rowIndex": 30,
+            "columnIndex": 1,
+            "content": "入院前或出院後/日間手術前後的門診護理2 Pre- and post-Confinement / Day Case Procedure"
+          },
+          {
+            "rowIndex": 30,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "每保單年度$6,000 per Policy Year"
+          },
+          {
+            "rowIndex": 30,
+            "columnIndex": 4,
+            "columnSpan": 2,
+            "content": "每保單年度$3,600 per Policy Year"
+          },
+          {
+            "rowIndex": 30,
+            "columnIndex": 6,
+            "content": "每保單年度$3,200 per Policy Year"
+          },
+          {
+            "rowIndex": 31,
+            "columnIndex": 0,
+            "content": ""
+          },
+          {
+            "rowIndex": 31,
+            "columnIndex": 1,
+            "content": "outpatient care®"
+          },
+          {
+            "rowIndex": 31,
+            "columnIndex": 2,
+            "rowSpan": 2,
+            "columnSpan": 5,
+            "content": "○ 2次住院/日間手術前的門診/急症診症 2 prior outpatient visits or Emergency consultations per Confinement/Day Case Procedure 。 所有出院/日間手術後90日內之跟進門診 All related follow-up outpatient visits per Confinement/Day Case Procedure (within 90 days after discharge from Hospital or completion of Day Case Procedure)"
+          },
+          {
+            "rowIndex": 32,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": ""
+          },
+          {
+            "rowIndex": 33,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "l 精神科治療 Psychiatric treatments"
+          },
+          {
+            "rowIndex": 33,
+            "columnIndex": 2,
+            "columnSpan": 5,
+            "content": "每保單年度 $30,000 per Policy Year"
+          },
+          {
+            "rowIndex": 34,
+            "columnIndex": 0,
+            "content": "2)"
+          },
+          {
+            "rowIndex": 34,
+            "columnIndex": 1,
+            "content": "額外保障 Enhanced Benefits"
+          },
+          {
+            "rowIndex": 34,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "尊尚/升級尊尚 Deluxe / Deluxe Plus"
+          },
+          {
+            "rowIndex": 34,
+            "columnIndex": 4,
+            "columnSpan": 2,
+            "content": "智選/升級智選 Advance / Advance Plus"
+          },
+          {
+            "rowIndex": 34,
+            "columnIndex": 6,
+            "content": "基本/升級基本 Standard / Standard Plus"
+          },
+          {
+            "rowIndex": 35,
+            "columnIndex": 0,
+            "content": ""
+          },
+          {
+            "rowIndex": 35,
+            "columnIndex": 1,
+            "content": "保障項目Benefit items"
+          },
+          {
+            "rowIndex": 35,
+            "columnIndex": 2,
+            "columnSpan": 5,
+            "content": "賠償限額(港元) Benefit limit (in HKD)"
+          },
+          {
+            "rowIndex": 36,
+            "columnIndex": 0,
+            "rowSpan": 2,
+            "content": "a"
+          },
+          {
+            "rowIndex": 36,
+            "columnIndex": 1,
+            "content": "私家看護費2"
+          },
+          {
+            "rowIndex": 36,
+            "columnIndex": 2,
+            "rowSpan": 2,
+            "columnSpan": 5,
+            "content": "每日 $970 per day 每日 $640 per day 每日 $390 per day (每保單年度最多120日 Maximum 120 days per Policy Year)"
+          },
+          {
+            "rowIndex": 37,
+            "columnIndex": 1,
+            "content": "Private nursing@"
+          },
+          {
+            "rowIndex": 38,
+            "columnIndex": 0,
+            "rowSpan": 2,
+            "content": "b"
+          },
+          {
+            "rowIndex": 38,
+            "columnIndex": 1,
+            "content": "陪床費"
+          },
+          {
+            "rowIndex": 38,
+            "columnIndex": 2,
+            "rowSpan": 2,
+            "columnSpan": 5,
+            "content": "每日 $1,880 per day 每日 $850 per day 每日 $450 per day (每保單年度最多270日 Maximum 270 days per Policy Year)"
+          },
+          {
+            "rowIndex": 39,
+            "columnIndex": 1,
+            "content": "Companion bed"
+          },
+          {
+            "rowIndex": 40,
+            "columnIndex": 0,
+            "content": "c"
+          },
+          {
+            "rowIndex": 40,
+            "columnIndex": 1,
+            "content": "急症意外門診保障 Emergency outpatient treatment for Accidents"
+          },
+          {
+            "rowIndex": 40,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "每保單年度 $11,900 per Policy Year"
+          },
+          {
+            "rowIndex": 40,
+            "columnIndex": 4,
+            "columnSpan": 2,
+            "content": "每保單年度$8,700 per Policy Year"
+          },
+          {
+            "rowIndex": 40,
+            "columnIndex": 6,
+            "content": "每保單年度$6,600 per Policy Year"
+          },
+          {
+            "rowIndex": 41,
+            "columnIndex": 0,
+            "content": "d"
+          },
+          {
+            "rowIndex": 41,
+            "columnIndex": 1,
+            "content": "日症病人洗腎2 Day Patient kidney dialysis2"
+          },
+          {
+            "rowIndex": 41,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "每保單年度 $158,000 per Policy Year"
+          },
+          {
+            "rowIndex": 41,
+            "columnIndex": 4,
+            "columnSpan": 2,
+            "content": "每保單年度$123,000 per Policy Year"
+          },
+          {
+            "rowIndex": 41,
+            "columnIndex": 6,
+            "content": "每保單年度 $83,000 per Policy Year"
+          },
+          {
+            "rowIndex": 42,
+            "columnIndex": 0,
+            "content": "e"
+          },
+          {
+            "rowIndex": 42,
+            "columnIndex": 1,
+            "content": "住院或指定治療後由註冊中醫師提供之診症或針灸 Consultation or acupuncture by a Registered"
+          },
+          {
+            "rowIndex": 42,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "每次$360 per visit"
+          },
+          {
+            "rowIndex": 42,
+            "columnIndex": 4,
+            "columnSpan": 2,
+            "content": "每次 $270 per visit"
+          },
+          {
+            "rowIndex": 42,
+            "columnIndex": 6,
+            "content": "每次$225 per visit"
+          },
+          {
+            "rowIndex": 43,
+            "columnIndex": 0,
+            "content": ""
+          },
+          {
+            "rowIndex": 43,
+            "columnIndex": 1,
+            "content": "Chinese Medicine Practitioner after Confinement or specific treatments"
+          },
+          {
+            "rowIndex": 43,
+            "columnIndex": 2,
+            "columnSpan": 5,
+            "content": "(每保單年度最多20次 Maximum 20 visits per Policy Year)"
+          },
+          {
+            "rowIndex": 44,
+            "columnIndex": 0,
+            "content": ""
+          },
+          {
+            "rowIndex": 44,
+            "columnIndex": 1,
+            "content": "其他限額 Other limits"
+          },
+          {
+            "rowIndex": 44,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": ""
+          },
+          {
+            "rowIndex": 44,
+            "columnIndex": 4,
+            "columnSpan": 2,
+            "content": ""
+          },
+          {
+            "rowIndex": 44,
+            "columnIndex": 6,
+            "content": ""
+          },
+          {
+            "rowIndex": 45,
+            "columnIndex": 0,
+            "rowSpan": 2,
+            "content": ""
+          },
+          {
+            "rowIndex": 45,
+            "columnIndex": 1,
+            "rowSpan": 2,
+            "content": "1)基本保障及2)額外保障下所有保障項目的 每年保障限額 Annual Benefit Limit for all benefit items under 1) Basic Benefits and 2) Enhanced Benefits"
+          },
+          {
+            "rowIndex": 45,
+            "columnIndex": 2,
+            "rowSpan": 2,
+            "columnSpan": 2,
+            "content": ""
+          },
+          {
+            "rowIndex": 45,
+            "columnIndex": 4,
+            "columnSpan": 2,
+            "content": "無Nil"
+          },
+          {
+            "rowIndex": 45,
+            "columnIndex": 6,
+            "content": ""
+          },
+          {
+            "rowIndex": 46,
+            "columnIndex": 4,
+            "columnSpan": 2,
+            "content": ""
+          },
+          {
+            "rowIndex": 46,
+            "columnIndex": 6,
+            "content": ""
+          },
+          {
+            "rowIndex": 47,
+            "columnIndex": 0,
+            "rowSpan": 2,
+            "content": ""
+          },
+          {
+            "rowIndex": 47,
+            "columnIndex": 1,
+            "rowSpan": 2,
+            "content": "1) 基本保障及2)額外保障下所有保障項目的 終身保障限額 Lifetime Benefit Limit for all benefit items under 1) Basic Benefits and 2) Enhanced Benefits"
+          },
+          {
+            "rowIndex": 47,
+            "columnIndex": 2,
+            "rowSpan": 2,
+            "columnSpan": 2,
+            "content": ""
+          },
+          {
+            "rowIndex": 47,
+            "columnIndex": 4,
+            "columnSpan": 2,
+            "content": "無Nil"
+          },
+          {
+            "rowIndex": 47,
+            "columnIndex": 6,
+            "content": ""
+          },
+          {
+            "rowIndex": 48,
+            "columnIndex": 4,
+            "columnSpan": 2,
+            "content": ""
+          },
+          {
+            "rowIndex": 48,
+            "columnIndex": 6,
+            "content": ""
+          }
+        ]
+      }
+    ],
+    "contentFormat": "markdown"
+  }
+}

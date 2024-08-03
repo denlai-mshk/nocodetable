@@ -1,0 +1,250 @@
+{
+  "status": "succeeded",
+  "createdDateTime": "2024-08-02T07:20:15Z",
+  "lastUpdatedDateTime": "2024-08-02T07:20:18Z",
+  "analyzeResult": {
+    "apiVersion": "2024-02-29-preview",
+    "modelId": "prebuilt-layout",
+    "stringIndexType": "utf16CodeUnit",
+    "tables": [
+      {
+        "rowCount": 13,
+        "columnCount": 4,
+        "cells": [
+          {
+            "kind": "columnHeader",
+            "rowIndex": 0,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "1) 門診保障 Clinical Benefit (只供已選擇升級保障之人士投保 Only available for enrolment after selecting Push the Limit Benefit)"
+          },
+          {
+            "kind": "columnHeader",
+            "rowIndex": 0,
+            "columnIndex": 2,
+            "content": "網絡保障 Network benefit"
+          },
+          {
+            "kind": "columnHeader",
+            "rowIndex": 0,
+            "columnIndex": 3,
+            "content": "非網絡保障 Non-Network Benefit"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 0,
+            "content": ""
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 1,
+            "content": "康托索尚健特選服務供應商數目2 No. of Contoso HealthPlus Appointed Service Providers2"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 2,
+            "content": "約 Around 1,700"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 3,
+            "content": "不適用 N/A"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "a 普通科醫生 General practitioner"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 2,
+            "rowSpan": 2,
+            "content": "全數賠償 (包括診症費及最多5日之基本醫療所需西藥費用) Full cover (Includes consultation fee and up to 5 days of basic Medically Necessary Western Medication)"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 3,
+            "content": "每次診治 $340(只限診症費) $340 per visit (Consultation fee only)"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 0,
+            "content": "b"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 1,
+            "content": "專科醫生3 Specialist® 。 須獲註冊醫生書面轉介,皮膚科、家庭醫學科、婦科、眼 科、骨科、耳鼻喉科、小兒外科、兒科及精神科除外 Subject to written referral from a Registered • Medical Practitioner, except for dermatology, family medicine, gynaecology, ophthalmology, orthopaedics, otolaryngology, paediatric surgery, paediatrics and psychiatry"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 3,
+            "content": "每次診治 $640(只限診症費) $640 per visit (Consultation fee only)"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 0,
+            "content": "c"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 1,
+            "content": "家中應診 Home consultation"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 2,
+            "content": "不適用 N/A"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 3,
+            "content": "每次診治 $760(只限診症費) $760 per visit (Consultation fee only)"
+          },
+          {
+            "rowIndex": 5,
+            "columnIndex": 0,
+            "content": "d"
+          },
+          {
+            "rowIndex": 5,
+            "columnIndex": 1,
+            "content": "物理治療師3 Physiotherapist® 0 須獲註冊醫生書面轉介 Subject to written referral from a Registered Medical • Practitioner"
+          },
+          {
+            "rowIndex": 5,
+            "columnIndex": 2,
+            "content": "全數賠償(只限診療費) Full cover (Treatment fee only)"
+          },
+          {
+            "rowIndex": 5,
+            "columnIndex": 3,
+            "rowSpan": 2,
+            "content": "每次診治 $630(只限診療費) $630 per visit (Treatment fee only)"
+          },
+          {
+            "rowIndex": 6,
+            "columnIndex": 0,
+            "content": "e"
+          },
+          {
+            "rowIndex": 6,
+            "columnIndex": 1,
+            "content": "脊醫3 Chiropractor3 須獲註冊醫生書面轉介 · Subject to written referral from a Registered Medical Practitioner"
+          },
+          {
+            "rowIndex": 6,
+            "columnIndex": 2,
+            "content": "不適用 N/A"
+          },
+          {
+            "rowIndex": 7,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "f 中醫師 Chinese herbalist"
+          },
+          {
+            "rowIndex": 7,
+            "columnIndex": 2,
+            "rowSpan": 2,
+            "content": "全數賠償 (包括診症費及最多兩劑之基本中藥費用) Full cover (Includes consultation fee and up to 2 packets of basic Chinese Medicines)"
+          },
+          {
+            "rowIndex": 7,
+            "columnIndex": 3,
+            "rowSpan": 2,
+            "content": "每次診治 $350 (包括診症費、基本中藥費用、針灸治療及推拿;亦 支付由註冊中醫師處方並由合法來源(不論是否於該 註冊中醫師的門診診所)取得之醫療必需中藥費用) $350 per visit (Includes consultation fee, basic Chinese Medicines, acupuncture and tui na; also payable for Medically Necessary Chinese Medicines prescribed by a Registered Chinese Medicine Practitioner and obtained at a legitimate source (at or outside the treating Registered Chinese Medicine Practitioner's clinic))"
+          },
+          {
+            "rowIndex": 8,
+            "columnIndex": 0,
+            "content": "g"
+          },
+          {
+            "rowIndex": 8,
+            "columnIndex": 1,
+            "content": "跌打醫師 Chinese bonesetter"
+          },
+          {
+            "rowIndex": 9,
+            "columnIndex": 0,
+            "content": "h"
+          },
+          {
+            "rowIndex": 9,
+            "columnIndex": 1,
+            "content": "精神科相關治療4 Psychiatric-related treatments"
+          },
+          {
+            "rowIndex": 9,
+            "columnIndex": 2,
+            "content": "不適用 N/A"
+          },
+          {
+            "rowIndex": 9,
+            "columnIndex": 3,
+            "content": "每次診治 $550 (包括診症費、醫療所需西藥、中藥、針灸治療、 診斷成像及化驗) $550 per visit (Includes consultation fee, Medically Necessary Western Medication, Chinese Medicines, acupuncture, diagnostic imaging and laboratory tests)"
+          },
+          {
+            "rowIndex": 10,
+            "columnIndex": 0,
+            "content": "i"
+          },
+          {
+            "rowIndex": 10,
+            "columnIndex": 1,
+            "content": "臨床心理輔導3 Psychological counselling ® 須獲精神科醫生書面轉介 • Subject to written referral from a Psychiatrist •"
+          },
+          {
+            "rowIndex": 10,
+            "columnIndex": 2,
+            "content": "不適用 N/A"
+          },
+          {
+            "rowIndex": 10,
+            "columnIndex": 3,
+            "content": "每次診治 $550 per visit"
+          },
+          {
+            "rowIndex": 11,
+            "columnIndex": 0,
+            "content": "j"
+          },
+          {
+            "rowIndex": 11,
+            "columnIndex": 1,
+            "content": "診斷成像及化驗3 Diagnostic imaging and laboratory tests® 須獲註冊醫生(適用於所有診斷影像及化驗)或註冊中醫師 脊醫3(只適用於X光及化驗)書面轉介 Subject to written referral from a Registered Medical • Practitioner for all diagnostic imaging and laboratory tests, or from a Registered Chinese Medicine Practitioner or Chiropractor® for X-ray only and laboratory tests"
+          },
+          {
+            "rowIndex": 11,
+            "columnIndex": 2,
+            "content": "全數賠償 Full cover"
+          },
+          {
+            "rowIndex": 11,
+            "columnIndex": 3,
+            "content": "每保單年度$5,200 per Policy Year"
+          },
+          {
+            "rowIndex": 12,
+            "columnIndex": 0,
+            "content": "k"
+          },
+          {
+            "rowIndex": 12,
+            "columnIndex": 1,
+            "content": "處方西藥 Prescribed Western Medication"
+          },
+          {
+            "rowIndex": 12,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "每保單年度$5,200(經由註冊醫生處方並由合法來源取得之醫療所需西藥費用) $5,200 per Policy Year (Medically Necessary Western Medication prescribed by a Registered Medical Practitioner and obtained at a legitimate source)"
+          }
+        ]
+      }
+    ],
+    "contentFormat": "markdown"
+  }
+}

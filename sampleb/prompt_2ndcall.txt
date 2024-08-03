@@ -1,0 +1,3 @@
+flattening this table but retain any chinese words which correlated to the english words as reference, given this ---tabular data in markdown format\n
+
+---\n
