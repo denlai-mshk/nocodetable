@@ -99,6 +99,7 @@ This row-based format helps LLM models understand the semantic relationships bet
 
 # Sample B: Combined column value for multiple rows
 ![sampleb](/screenshot/sampleb.png)
+
 This table looks more complicated that we need to ask GPT-4o twice
 - 1st call: send analyzeResult.tables to GPT-4o, convert to markdown and auto filling the missing cell value
 - 2nd call: send revised markdown to GPT-4o, flattern the markdown like what we have done in Sample A
