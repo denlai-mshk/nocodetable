@@ -136,7 +136,14 @@ After the 1st call, the missing cell value is filled smartly by GPT-4o and with 
 
 ![sampleb_qna_fact](/screenshot/sampleb_qna_fact.png)
 
+# Cost for De-normalization
+![costtable](/screenshot/costtable.png)
 
+**Sample A**: The input tokens include both [system_message.txt](/samplea/system_message.txt) and [prompt.txt](/samplea/prompt.txt) with the markdown context from analyzeResult.content of [di_output_slim.json](/samplea/di_output_slim.json). The output tokens refer to [completion.txt](/samplea/completion.txt)
+
+**Sample B**: The input tokens include 
+[system_message_1stcall.txt](/sampleb/system_message_1stcall.txt), [system_message_2ndcall.txt](/sampleb/system_message_2ndcall.txt),
+[prompt_1stcall.txt](/sampleb/prompt_1stcall.txt) and [prompt_2ndcall.txt](/sampleb/prompt_2ndcall.txt) plus the markdown context from [completion_1st.md](/sampleb/completion_1st.md). The output tokens include both [completion_1st.md](/sampleb/completion_1st.md) and [completion_2nd.txt](/sampleb/completion_2nd.txt)
 
 # Closing
 Reflecting on the 1980s and 1990s, we focused on data normalization to enhance retrieval speed and optimize storage capacity. Over the past three decades, the approach to data retrieval has evolved significantly. Instead of reading normalized documents, users now interact with chatbots, posing questions directly. With the advent of NoSQL databases, data denormalization has become a common practice in data engineering. Today, the need for machine models to efficiently read data has further propelled the trend towards data denormalization.
