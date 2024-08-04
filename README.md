@@ -26,10 +26,9 @@ In the past, many approaches to tackling non-standard table extraction were base
 # Retain the 2D Dimensional Correlation in Markdown format
 ![di_layout_markdown](/screenshot/di_layout_markdown.png)
 
-# Why De-normalizing tables matters?
-![maths_qna](/screenshot/maths_qna.png)
-
+# Why does de-normalizing tables matter?
 Although LLM models are now capable of reading data written in markdown and JSON formats and understanding data correlation relationships, this is not the best approach since the data relationships are still stored implicitly. For example, if a child asks their mother what time it is, the mother can give two answers: the first one is "7 o'clock," and the second one is "(24-3)/3." Which answer is the most straightforward and least confusing? Definitely, "7 o'clock" because it is directly in language, with no math involved. Therefore, if we can convert data relationships into clear English statements, LLM models can handle them with minimal effort, perform faster, and deliver the highest accuracy. The diagram below illustrates this refactorization:
+![maths_qna](/screenshot/maths_qna.png)
 
 # Table Transformation Flow
 ![demormalizing](/screenshot/denormalizing.png)
@@ -43,6 +42,11 @@ Although we mentioned no code is required, it doesn't mean this can be achieved 
     *{{place a few shot example to let openai follow the example as reference}}*
  ---\n 
 ```
+### Few Shot Example for De-normalization
+[Sample_few_shot_example](/samplea/system_message.txt)
+
+**The quality of your few-shot examples significantly impacts the final result when GPT-4 flattens the markdown or JSON.**
+
 ### Prompt
 ```
 flattening this table but retain any chinese words which correlated to the english words as reference, given this
@@ -52,9 +56,11 @@ flattening this table but retain any chinese words which correlated to the engli
 ```
 ### GPT-4o model parameters
 ```
-*temperature = 0.4 + top_p = 0.4* for flatterning markdown to row-based single sentence in precise manner
+temperature = 0.4 + top_p = 0.4
+for flatterning markdown to row-based single sentence in precise manner
 
-*temperature = 0.6 + top_p = 0.5* for converting JSON to markdown and auto fill missing cell value in creative manner
+temperature = 0.6 + top_p = 0.5
+for converting JSON to markdown and auto fill missing cell value in creative manner
 ```
 Using the prompt and system message template above, GPT-4o can read content in markdown format and flatten data into row-based statements. The trick we use here is to ask GPT-4o to automatically refill any missing cell values based on its understanding of the markdown of non-standard 2D table structures while de-normalizing all the rows against their columns. Furthermore, the prompt instructs GPT-4o to mark any generated cell value with a watermark **"{auto-fill}"**. This watermark allows us to recognize that this cell value is artificially generated, notifying us to double-check this value in our evaluation pipeline.
  
@@ -133,8 +139,11 @@ After the 1st call, the missing cell value is filled smartly by GPT-4o and with 
 
 
 # Closing
-## In summary, recognizing non-standard tables is a big challenge in AI, but with the right tools and techniques, we can make significant progress. 
- References
+Reflecting on the 1980s and 1990s, we focused on data normalization to enhance retrieval speed and optimize storage capacity. Over the past three decades, the approach to data retrieval has evolved significantly. Instead of reading normalized documents, users now interact with chatbots, posing questions directly. With the advent of NoSQL databases, data denormalization has become a common practice in data engineering. Today, the need for machine models to efficiently read data has further propelled the trend towards data denormalization.
+
+In summary, **recognizing non-standard tables is a big challenge in AI, but with the right tools and techniques, we can make significant progress.** 
+
+# References
  - [Analyze complex documents with Azure Document Intelligence Markdown Output and Azure OpenAI](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/analyze-complex-documents-with-azure-document-intelligence/ba-p/4080770)
 
 
